@@ -1,45 +1,37 @@
-<head>
-    <link href="http://gmpg.org/xfn/11" rel="profile">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta http-equiv="content-type" content="text/html; charset=utf-8">
-    <meta name="theme-color" content="#00aeef">
-    <meta http-equiv="Content-Language" content="pt">
+### Integração B2B - Via Varejo X Parceiros
 
-    <!-- Enable responsiveness on mobile devices-->
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+You can use the [editor on GitHub](https://github.com/ViaVarejoB2B/B2B/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-    <title>
-        
-        Manual de integração API Rest · Documentações e tutoriais
-        
-    </title>
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-    <link rel="shortcut icon" href="https://braspag.github.io//assets/favicon.png">
+### Markdown
 
-    <!-- CSS -->
-    <link href="https://fonts.googleapis.com/css?family=Fira+Sans" rel="stylesheet">
-    <script src="https://use.fontawesome.com/3ae06f1030.js"></script><link href="https://use.fontawesome.com/3ae06f1030.css" media="all" rel="stylesheet">
-    <link rel="stylesheet" href="https://braspag.github.io//assets/css/poole.css">
-    <link rel="stylesheet" href="https://braspag.github.io//assets/css/syntax.css">
-    <link rel="stylesheet" href="https://braspag.github.io//assets/css/hyde.css">
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-    <link rel="stylesheet" href="https://braspag.github.io//assets/css/bootstrap.css">
-    <link rel="stylesheet" href="https://braspag.github.io//assets/css/jquery.tocify.css">
-    <link rel="stylesheet" href="https://braspag.github.io//assets/css/jquery-ui.css">
-    <link rel="stylesheet" href="https://braspag.github.io//assets/css/prettify.css">
-    <link rel="stylesheet" href="https://braspag.github.io//assets/css/custom.css">
-    <link rel="stylesheet" href="https://braspag.github.io//assets/css/braspag.css">
+```markdown
+Syntax highlighted code block
 
-    
-        
-            <link rel="alternate" hreflang="pt" href="https://braspag.github.io//manual/braspag-pagador">
-        
-    
-        
-            <link rel="alternate" hreflang="en" href="https://braspag.github.io//en/manual/braspag-pagador">
-        
-    
+# Header 1
+## Header 2
+### Header 3
 
-    <!-- RSS -->
-    <link rel="alternate" type="application/rss+xml" title="RSS" href="https://braspag.github.io//atom.xml">
-<script async="" src="https://static.hotjar.com/c/hotjar-715256.js?sv=6"></script><script async="" src="https://script.hotjar.com/modules.b829230c0994929d66e5.js" charset="utf-8"></script><style type="text/css">iframe#_hjRemoteVarsFrame {display: none !important; width: 1px !important; height: 1px !important; opacity: 0 !important; pointer-events: none !important;}</style></head>
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+### Jekyll Themes
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ViaVarejoB2B/B2B/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+### Support or Contact
+
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
